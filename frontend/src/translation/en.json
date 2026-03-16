@@ -1,0 +1,35 @@
+{
+  "landing": {
+    "welcome": "Welcome to ping pong",
+    "start": "Start Now"
+  },
+  "signup": {
+    "title": "Sign Up to LEETPONG",
+    "username": "Username",
+    "email": "Email address",
+    "password": "Password",
+    "button": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "terms": "I have read and agree to the",
+    "termsLink": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "success": "Registration successful! Please login.",
+    "failed": "Registration failed!",
+    "networkError": "Network error. Please try again."
+  },
+  "login": {
+    "title": "Sign in to LEETPONG",
+    "adminTitle": "Sign in as Admin",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "button": "Sign In",
+    "failed": "Login failed!",
+    "backUser": "Back to User Login",
+    "newHere": "New here?",
+    "createAccount": "Create new account",
+    "privacy": "Privacy Policy"
+  }
+}

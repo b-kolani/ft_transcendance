@@ -1,0 +1,32 @@
+{
+  "landing": {
+    "welcome": "Bienvenue sur Ping Pong",
+    "start": "Commencer maintenant"
+  },
+  "signup": {
+    "title": "Inscription à LEETPONG",
+    "username": "Nom d'utilisateur",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "button": "S'inscrire",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "terms": "J'ai lu et j'accepte les Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "success": "Inscription réussie ! Veuillez vous connecter.",
+    "failed": "Échec de l'inscription !",
+    "networkError": "Erreur réseau. Veuillez réessayer.",
+    "or": "ou"
+  },
+  "login": {
+    "title": "Se connecter à LEETPONG",
+    "adminTitle": "Connexion Admin",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "button": "Se connecter",
+    "backUser": "Retour à la connexion utilisateur",
+    "newHere": "Nouveau ici ?",
+    "createAccount": "Créer un compte",
+    "privacy": "Politique de confidentialité"
+  }
+}
