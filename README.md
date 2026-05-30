@@ -14,8 +14,6 @@ Le projet met l'accent sur le développement full-stack, la sécurité, l'authen
 - Gestion des profils
 - Jeu Pong en temps réel
 - Matchmaking
-- Historique des parties
-- Classement des joueurs
 - Système d'amis
 - Chat en temps réel
 - Interface responsive
