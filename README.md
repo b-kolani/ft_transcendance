@@ -2,6 +2,22 @@
 
 Une plateforme web de jeu Pong moderne développée dans le cadre du cursus 42.
 
+
+## 🖥️ Aperçu de l'application
+
+### Authentification
+![Écran de connexion](screenshots/login.png)
+
+### Jeu Pong
+![Partie de Pong](screenshots/pong.png)
+
+### Profil utilisateur
+![Profil utilisateur](screenshots/profile.png)
+
+### Chat en temps réel
+![Chat en temps réel](screenshots/chat.png)
+
+
 ## 📖 Description
 
 ft_transcendence est une application web permettant aux utilisateurs de jouer à Pong en ligne, gérer leur profil, interagir avec d'autres joueurs et consulter leurs statistiques.
